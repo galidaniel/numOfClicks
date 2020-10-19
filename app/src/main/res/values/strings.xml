@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">numOfClicks</string>
+    <string name="textOnButton">click here</string>
+    <string name="textOnTextBox">Number Of Clicks</string>
+</resources>
